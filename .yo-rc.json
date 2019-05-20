@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:ostapan/power-backend-app.git",
+    "project_destination_path": "power-backend-app",
+    "application_name": "power",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
